@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="4upak" id="7d09a8bc-8150-48e1-af7d-8c50aa9b89ff">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
